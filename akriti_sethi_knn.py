@@ -1,5 +1,5 @@
+# Author: Akriti Sethi
 # To run the main program demonstrating the KNN algorithm, run this file on the cmd
-# To run the graph part of the program, please comment out the call for read_file() and uncomment the call for createGraph()
 
 import zipfile
 import urllib
